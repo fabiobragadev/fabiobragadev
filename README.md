@@ -17,21 +17,26 @@
 
 ---
 
-### 🛠️ Tecnologias & Ferramentas
+### 🛠️ Ferramentas
+
 <div align="left">
-  <!-- Ambientes -->  
+  <!-- Sistemas Operacionais & Linha de Comando -->
   <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux" />
   <img src="https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white" alt="Bash" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
-  <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-  <!-- Linguagens -->
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
+  <img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white" alt="Windows" />
   
-  <!-- IA & Engenharia de Prompt -->
-  <img src="https://img.shields.io/badge/Prompt_Engineering-74AA9C?style=for-the-badge&logo=openai&logoColor=white" alt="Prompt Engineering" />
-  
-  <!-- Ferramentas -->  
-  <img src="https://img.shields.io/badge/VS_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" alt="VS Code"/>
+  <!-- Produtividade & IA -->
+  <img src="https://img.shields.io/badge/Microsoft_365-D83B01?style=for-the-badge&logo=microsoft-365&logoColor=white" alt="Office 365" />
+  <img src="https://img.shields.io/badge/Google_Gemini-8E75B2?style=for-the-badge&logo=google-gemini&logoColor=white" alt="Google Gemini" />
+</div>
+
+### 🛠️ Tecnologias
+
+<div align="left">
+
+<img src="https://img.shields.io/badge/VS_Code-0078D4?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="VS Code" />
+<img src="https://img.shields.io/badge/Portugol_Studio-4B5563?style=for-the-badge&logo=terminal&logoColor=white" alt="Portugol Studio" />
+<img src="https://img.shields.io/badge/Lógica_de_Programação-007ACC?style=for-the-badge&logo=thealgorithms&logoColor=white" alt="Lógica de Programação" />
 </div>
 
 ---
