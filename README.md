@@ -38,8 +38,9 @@
 
 ### 📊 Estatísticas do GitHub
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=fabiobragadev&show_icons=true&theme=radical" alt="GitHub Stats" height="150" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=fabiobragadev&layout=compact&theme=radical" alt="Top Langs" height="150" />
+  <img src="https://streak-stats.demolab.com?user=fabiobragadev&theme=radical&hide_border=true" alt="GitHub Streak Stats" />
+  <br/><br/>
+  <img src="https://github-readme-stats-fast.vercel.app/api?username=fabiobragadev&show_icons=true&theme=radical" alt="GitHub Stats" height="150" />
 </div>
 
 ---
