@@ -10,7 +10,7 @@
 
 ### 🚀 Sobre Mim
 - 💡 Apaixonado por inovação e por estar sempre atualizado com as últimas tendências do mundo da tecnologia.
-- 🧠 Especializando-me em **Engenharia de Prompt** e Inteligência Artificial Aplicada.
+- 🧠 Especializando-me em **Engenharia de Prompt** e **Inteligência Artificial Aplicada.**
 - 📚 Cursos em andamento: **Linux** e **Python**.
 - 💡 Apaixonado por inovação e por estar sempre atualizado com as últimas tendências do mundo da tecnologia.
 - 🎯 Foco atual: Fortalecer as bases da computação, dominar o ecossistema Linux e desenvolver soluções eficientes com Python e IA.
