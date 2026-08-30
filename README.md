@@ -2,7 +2,7 @@
 
 💻 **Desenvolvedor Jr.**  
 
-🎓 Cursando **Bacharelado em Sistemas de Informação** (início em agosto de 2026).<br>
+🎓 Cursando **Bacharelado em Sistemas de Informação**<br>
 
 📍 São José dos Campos – SP, Brasil
 
